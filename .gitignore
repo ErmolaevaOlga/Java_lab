@@ -1,0 +1,8 @@
+venv/
+*.pyc
+*.org
+src/data/
+.idea
+.env
+pyrightconfig.json
+
